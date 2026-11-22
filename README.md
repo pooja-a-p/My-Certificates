@@ -15,4 +15,4 @@
    * Technology and innovation
 
 # Purpose
-   This repository showcases my academic achievements, technical certifications, and continuous learning journey.
+   To maintain and showcase my academic achievements, technical certifications, and continuous learning journey.
